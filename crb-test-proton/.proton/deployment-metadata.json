@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "3482b857-f84d-4d5e-a303-eb52cce9f68c",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:031342435657:environment/crb-test-proton",
+    "templateArn" : "arn:aws:proton:us-east-1:031342435657:environment-template/crb-test-proton",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
